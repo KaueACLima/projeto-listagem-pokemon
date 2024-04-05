@@ -35,6 +35,7 @@ Os usuários devem ser capazes de:
 
 - Marcação HTML5 semântica
 - Propriedades personalizadas CSS
+- Animações com JS
 
 ### Autor
 
